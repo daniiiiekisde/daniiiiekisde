@@ -4,7 +4,9 @@
 
 As the **CEO of Gastrosabor**, I lead with a vision that merges business strategy with cutting-edge technology. I am a software engineer specialized in **Automation and Artificial Intelligence**, dedicated to transforming complex operational challenges into scalable, intelligent systems.
 
-By day, I oversee business growth and technical architecture, ensuring that every line of code contributes to high-impact results. My focus lies in leveraging **Machine Learning** and high-performance languages like **Rust** to build the future of business efficiency.
+By day, I'm immersed in the realm of coding, constantly seeking elegant solutions to scale operations through intelligent systems. My focus extends beyond the screen, influencing my perspective on how technology can redefine the landscape of modern enterprises. 
+
+This dual role allows me to balance the structured logic of programming with the boundless imagination required for creative endeavors. Join me on this journey where code meets business strategy, and where every line of code is designed to drive impact.
 
 ---
 
@@ -17,7 +19,7 @@ By day, I oversee business growth and technical architecture, ensuring that ever
 
 #### 🤖 Machine Learning & Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,pandas,numpy,opencv&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,pandas,numpy,opencv" />
 </p>
 
 #### ⚙️ High Performance & Backend
@@ -34,14 +36,14 @@ By day, I oversee business growth and technical architecture, ensuring that ever
 
 ### 📊 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniiiiekisde&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daniiiiekisde&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniiiiekisde&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniiiiekisde&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 </p>
 
 ---
 
 ### 🚀 Currently Working On
-- 🏢 **Gastrosabor:** Leading business operations and scaling through technical innovation.
-- 🤖 **AI Automation:** Building high-performance tools using **Rust** and Python.
-- 💡 **Financial Strategy:** Implementing systems to effectively **reinvest profits**.
+- 🏢 **Gastrosabor:** Leading and scaling business operations through technical innovation.
+- 🤖 **AI Automation:** Building high-performance automation tools using **Rust** and Python.
+- 💡 **Growth:** Implementing strategies to effectively **reinvest profits**.
