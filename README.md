@@ -4,8 +4,6 @@
 
 As the **CEO of Gastrosabor**, I lead with a vision that merges business strategy with cutting-edge technology. I am a software engineer specialized in **Automation and Artificial Intelligence**, dedicated to transforming complex operational challenges into scalable, intelligent systems.
 
-By day, I'm immersed in the realm of coding, constantly seeking elegant solutions to scale operations through intelligent systems. My focus extends beyond the screen, influencing my perspective on how technology can redefine the landscape of modern enterprises. 
-
 ---
 
 ### 🌐 Socials
@@ -32,16 +30,18 @@ By day, I'm immersed in the realm of coding, constantly seeking elegant solution
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Premios y Logros (Trophies)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daniiiiekisde&theme=darkhub&column=7&margin-w=15&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=daniiiiekisde&theme=darkhub&no-frame=true&column=4" alt="Trophies" />
 </p>
+
+---
 
 ### 📊 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniiiiekisde&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daniiiiekisde&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniiiiekisde&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniiiiekisde&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
@@ -49,4 +49,4 @@ By day, I'm immersed in the realm of coding, constantly seeking elegant solution
 ### 🚀 Currently Working On
 - 🏢 **Gastrosabor:** Leading and scaling business operations through technical innovation.
 - 🤖 **AI Automation:** Building high-performance automation tools using **Rust** and Python.
-- 💡 **Financial Strategy:** Implementing systems to effectively **reinvest profits**.
+- 💡 **Growth:** Implementing strategies to effectively **reinvest profits**.
