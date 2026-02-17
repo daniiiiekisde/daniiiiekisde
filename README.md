@@ -6,8 +6,6 @@ As the **CEO of Gastrosabor**, I lead with a vision that merges business strateg
 
 By day, I oversee business growth and technical architecture, ensuring that every line of code contributes to high-impact results. My focus lies in leveraging **Machine Learning** and high-performance languages like **Rust** to build the future of business efficiency.
 
-This dual role as a CEO and developer allows me to balance executive leadership with the technical precision required for modern innovation. Join me on this journey where code meets business excellence.
-
 ---
 
 ### 🌐 Socials
@@ -32,24 +30,18 @@ This dual role as a CEO and developer allows me to balance executive leadership 
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,docker,aws" />
 </p>
 
-#### 🛠️ Workflow & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,anaconda,figma" />
-</p>
-
 ---
 
 ### 📊 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
 ### 🚀 Currently Working On
-- 🏢 **Gastrosabor:** Leading and scaling business operations through technical innovation.
-- 🤖 **AI Automation:** Building high-performance automation tools using **Rust** and Python.
-- 🎨 **Creative Direction:** Designing digital ecosystems that prioritize user experience and efficiency.
-- 💡 **Growth Strategies:** Implementing systems for smart **profit reinvestment**.
+- 🏢 **Gastrosabor:** Leading business operations and scaling through technical innovation.
+- 🤖 **AI Automation:** Building high-performance tools using **Rust** and Python.
+- 💡 **Growth:** Implementing strategies to **reinvest profits** effectively.
