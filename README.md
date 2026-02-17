@@ -28,15 +28,6 @@ As the **CEO of Gastrosabor**, I lead with a vision that merges business strateg
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,docker,aws" />
 </p>
 
----
-
-### 🏆Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daniiiiekisde&theme=darkhub&no-frame=true&column=4" alt="Trophies" />
-</p>
-
----
-
 ### 📊 My Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daniiiiekisde&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
