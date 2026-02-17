@@ -34,9 +34,9 @@ By day, I oversee business growth and technical architecture, ensuring that ever
 
 ### 📊 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daniiiiekisde&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniiiiekisde&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
@@ -44,4 +44,4 @@ By day, I oversee business growth and technical architecture, ensuring that ever
 ### 🚀 Currently Working On
 - 🏢 **Gastrosabor:** Leading business operations and scaling through technical innovation.
 - 🤖 **AI Automation:** Building high-performance tools using **Rust** and Python.
-- 💡 **Growth:** Implementing strategies to **reinvest profits** effectively.
+- 💡 **Financial Strategy:** Implementing systems to effectively **reinvest profits**.
