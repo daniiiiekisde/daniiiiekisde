@@ -30,7 +30,7 @@ As the **CEO of Gastrosabor**, I lead with a vision that merges business strateg
 
 ---
 
-### 🏆 Premios y Logros (Trophies)
+### 🏆Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=daniiiiekisde&theme=darkhub&no-frame=true&column=4" alt="Trophies" />
 </p>
