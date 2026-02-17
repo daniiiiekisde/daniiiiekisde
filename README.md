@@ -17,7 +17,7 @@ By day, I oversee business growth and technical architecture, ensuring that ever
 
 #### 🤖 Machine Learning & Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,pandas,numpy,matplotlib,opencv" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,pandas,numpy,opencv&perline=10" />
 </p>
 
 #### ⚙️ High Performance & Backend
