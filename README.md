@@ -1,12 +1,12 @@
 # Daniil Tikhomirov 💻
 
-### Digital Craftsman ( Developer / Trader / Creator )
+### Digital BusinessMaker ( Developer / Automatization / Machine Learning )
 
-As a software engineer with a passion for **Trading and Artificial Intelligence**, I find myself at the intersection of technology and finance, exploring innovative ways to merge these worlds. 
+As a software engineer with a passion for **Automation and Artificial Intelligence**, I find myself at the intersection of technology and business efficiency, exploring innovative ways to streamline complex workflows. 
 
-By day, I'm immersed in the realm of coding, constantly seeking elegant solutions to complex problems. My love for trading extends beyond the screen, influencing my perspective on how technology can redefine the landscape of financial markets. In my spare time, I wear a different hat as a **creative director**, channeling my creativity into various projects. 
+By day, I'm immersed in the realm of coding, constantly seeking elegant solutions to scale operations through intelligent systems. My focus extends beyond the screen, influencing my perspective on how AI and machine learning can redefine the landscape of modern enterprises. In my spare time, I wear a different hat as a **creative director**, channeling my creativity into various projects. 
 
-This dual role allows me to balance the structured logic of programming with the boundless imagination required for creative endeavors. Join me on this journey where lines between code and creativity blur, and where every line of code tells a story of its own.
+This dual role allows me to balance the structured logic of programming with the boundless imagination required for creative endeavors. Join me on this journey where code meets business strategy, and where every line of code is designed to drive impact.
 
 ---
 
@@ -17,19 +17,38 @@ This dual role allows me to balance the structured logic of programming with the
 
 ### 🧰 Languages and Tools
 
+#### 🤖 Machine Learning & Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,ts,tailwind,git,linux,html,css,js,react,nodejs,py,mysql,mongodb,nextjs,firebase,graphql" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,pandas,numpy,matplotlib,opencv" />
+</p>
+
+#### 🌐 Web Development & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css,graphql" />
+</p>
+
+#### 💾 Database & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,docker,aws" />
+</p>
+
+#### 🛠️ Workflow & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,anaconda,figma" />
 </p>
 
 ---
 
 ### 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</p>
 
 ---
 
 ### 🚀 Currently Working On
-- 📈 Developing automated trading strategies and AI models.
-- 🎨 Crafting digital experiences as a Creative Director.
-- 💡 Exploring strategies to **reinvest profits** effectively.
+- 🤖 **AI Automation:** Developing intelligent workflows and advanced ML models to streamline business processes.
+- 🎨 **Creative Direction:** Crafting digital experiences that merge aesthetics with high-end functionality.
+- 💡 **Growth Systems:** Exploring and implementing strategies to **reinvest profits** effectively.
