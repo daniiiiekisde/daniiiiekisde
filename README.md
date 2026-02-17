@@ -6,8 +6,6 @@ As the **CEO of Gastrosabor**, I lead with a vision that merges business strateg
 
 By day, I'm immersed in the realm of coding, constantly seeking elegant solutions to scale operations through intelligent systems. My focus extends beyond the screen, influencing my perspective on how technology can redefine the landscape of modern enterprises. 
 
-This dual role allows me to balance the structured logic of programming with the boundless imagination required for creative endeavors. Join me on this journey where code meets business strategy, and where every line of code is designed to drive impact.
-
 ---
 
 ### 🌐 Socials
@@ -34,6 +32,11 @@ This dual role allows me to balance the structured logic of programming with the
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daniiiiekisde&theme=darkhub&column=7&margin-w=15&no-bg=true" alt="Trophies" />
+</p>
+
 ### 📊 My Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daniiiiekisde&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -46,4 +49,4 @@ This dual role allows me to balance the structured logic of programming with the
 ### 🚀 Currently Working On
 - 🏢 **Gastrosabor:** Leading and scaling business operations through technical innovation.
 - 🤖 **AI Automation:** Building high-performance automation tools using **Rust** and Python.
-- 💡 **Growth:** Implementing strategies to effectively **reinvest profits**.
+- 💡 **Financial Strategy:** Implementing systems to effectively **reinvest profits**.
