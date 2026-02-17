@@ -1,12 +1,12 @@
 # Daniil Tikhomirov 💻
 
-### Digital BusinessMaker ( Developer / Automatization / Machine Learning )
+### CEO at Gastrosabor | Digital BusinessMaker ( Developer / Automatization / Machine Learning )
 
-As a software engineer with a passion for **Automation and Artificial Intelligence**, I find myself at the intersection of technology and business efficiency, exploring innovative ways to streamline complex workflows. 
+As the **CEO of Gastrosabor**, I lead with a vision that merges business strategy with cutting-edge technology. I am a software engineer specialized in **Automation and Artificial Intelligence**, dedicated to transforming complex operational challenges into scalable, intelligent systems.
 
-By day, I'm immersed in the realm of coding, constantly seeking elegant solutions to scale operations through intelligent systems. My focus extends beyond the screen, influencing my perspective on how AI and machine learning can redefine the landscape of modern enterprises. In my spare time, I wear a different hat as a **creative director**, channeling my creativity into various projects. 
+By day, I oversee business growth and technical architecture, ensuring that every line of code contributes to high-impact results. My focus lies in leveraging **Machine Learning** and high-performance languages like **Rust** to build the future of business efficiency.
 
-This dual role allows me to balance the structured logic of programming with the boundless imagination required for creative endeavors. Join me on this journey where code meets business strategy, and where every line of code is designed to drive impact.
+This dual role as a CEO and developer allows me to balance executive leadership with the technical precision required for modern innovation. Join me on this journey where code meets business excellence.
 
 ---
 
@@ -22,9 +22,9 @@ This dual role allows me to balance the structured logic of programming with the
   <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,pandas,numpy,matplotlib,opencv" />
 </p>
 
-#### 🌐 Web Development & Backend
+#### ⚙️ High Performance & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css,graphql" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,nodejs,nextjs,graphql,solidity" />
 </p>
 
 #### 💾 Database & Cloud
@@ -49,6 +49,7 @@ This dual role allows me to balance the structured logic of programming with the
 ---
 
 ### 🚀 Currently Working On
-- 🤖 **AI Automation:** Developing intelligent workflows and advanced ML models to streamline business processes.
-- 🎨 **Creative Direction:** Crafting digital experiences that merge aesthetics with high-end functionality.
-- 💡 **Growth Systems:** Exploring and implementing strategies to **reinvest profits** effectively.
+- 🏢 **Gastrosabor:** Leading and scaling business operations through technical innovation.
+- 🤖 **AI Automation:** Building high-performance automation tools using **Rust** and Python.
+- 🎨 **Creative Direction:** Designing digital ecosystems that prioritize user experience and efficiency.
+- 💡 **Growth Strategies:** Implementing systems for smart **profit reinvestment**.
